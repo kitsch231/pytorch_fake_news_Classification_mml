@@ -1,0 +1,3 @@
+torch1.10以上版本最好，在Config.py种修改训练参数然后运行train.py即可，模型保存在model文件夹下，
+对应的tensorboard保存在log文件夹下，终端输入命令即可查看，如果有多个events则查看最后一个
+如tensorboard --logdir=log/minirbt-h256_resnet18 --port=6006
