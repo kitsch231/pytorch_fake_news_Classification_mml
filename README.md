@@ -7,3 +7,5 @@ torch1.10以上版本最好，在Config.py种修改训练参数后运行train.py
 如tensorboard --logdir=log/minirbt-h256_resnet18 --port=6006
 
 采用的三个bert模型请自行从huggfacing git到本地目录，如果需要数据集进行演示请与我联系
+
+数据集下载：https://drive.google.com/drive/folders/1SYHLEMwC8kCibzUYjOqiLUeFmP2a19CH?usp=sharing
